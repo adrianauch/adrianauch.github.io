@@ -1,0 +1,15 @@
+.links {
+  padding-left: 20%;
+}
+
+.link {
+  padding-right: 20%;
+}
+
+a {
+  color: grey;
+  text-decoration: none;
+}
+a:hover {
+  color: #df4d9f;
+}
